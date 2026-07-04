@@ -1,1 +1,2 @@
 github first file 
+ text adding from local after clonning
